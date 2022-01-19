@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @subashrimal01
+- 👋 Hi, I’m Subash Rimal From Kathmandu, Nepal. I'm Currently Studying BSC(Hons) in Computing.
 - 👀 I’m interested in MERN Stack Web Development
 - 🌱 I’m currently learning different Frameworks and libraries like NextJs, Saas, Material UI, docker and many more things
 - 💞️ I’m looking to collaborate on Blockchain web development
